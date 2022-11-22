@@ -1,0 +1,8 @@
+#app.yaml
+runtime: python37
+
+env_variables:
+  CLOUD_SQL_USERNAME: jessykim
+  CLOUD_SQL_PASSWORD: unleash2357!
+  CLOUD_SQL_DATABASE_NAME: kants
+  CLOUD_SQL_CONNECTION_NAME: p4ds-team-3:asia-northeast3:postgresql-machine

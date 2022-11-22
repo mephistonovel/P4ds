@@ -1,0 +1,7 @@
+[Ubuntu]
+ sudo password: kants123!
+
+[PostgreSQL] - psycopg2으로 연결 시 configuration
+ username = 'postgres'
+ password = 'kants123!'
+ port = '34.64.47.191'
